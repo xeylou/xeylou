@@ -1,5 +1,6 @@
-### hello, nice to meet you
+### Hello!
 
-i'm Alexis Déhu, i'm 19 year old & i usually go under the online moniker xeylou. i'm a go-to-learn person, aspiring network & sysadmin, interested in network complexity, low-high level programming, virtualization & containerization, privacy, security & hardware topics. additionnaly, i like helping as much as i can, trying to give the little more to make someone proud of himself
+My name is Alexis Déhu, I'm 19 year old and I usually go under the online moniker xeylou. I'm a go-to-learn person, aspiring engineer, interested in networks and communications, low to high level programming, virtualization and containerization, security and hardware topics.  
+Additionnaly, I like helping as much as i can about everything so feel free to contact me on [discord](https://discordapp.com/users/835863642498793483) or by [email](xeylou@proton.me) if you need to!
 
-###### [xeylou.fr](https://xeylou.fr/)
+###### [https://xeylou.fr](https://xeylou.fr/)
